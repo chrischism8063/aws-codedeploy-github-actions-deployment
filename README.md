@@ -59,6 +59,7 @@ Copy the code. We need contents from the hidden .github folder for the GitHub ac
 
     e.g. GitActionsDeploytoAWS
 
+
 ## Deploying the CloudFormation template
 To deploy the CloudFormation template, complete the following steps:
 
